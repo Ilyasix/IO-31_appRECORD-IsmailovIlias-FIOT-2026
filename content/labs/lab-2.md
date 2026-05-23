@@ -7,10 +7,10 @@
 Створити базу даних для сервісу `TaskFlow`, налаштувати взаємодію `Node.js` із `MySQL`, описати сутності через `Sequelize` та реалізувати практичну роботу із задачами, користувачами й групами задач.
 
 ### 1.3 Посилання
-- Репозиторій власного проєкту (GitHub): буде додано після публікації.
-- Розгорнутий застосунок: буде додано після розгортання.
-- Репозиторій звітного HTML-документа (GitHub): буде додано після публікації.
-- Звітний HTML-документ: буде додано після розгортання.
+- Репозиторій власного проєкту (GitHub): [Ilyasix/TaskFlow](https://github.com/Ilyasix/TaskFlow)
+- Розгорнутий застосунок: локальний запуск із репозиторію проєкту.
+- Репозиторій звітного HTML-документа (GitHub): [Ilyasix/IO-31_appRECORD-IsmailovIlias-FIOT-2026](https://github.com/Ilyasix/IO-31_appRECORD-IsmailovIlias-FIOT-2026)
+- Звітний HTML-документ: [ilyasix.github.io/IO-31_appRECORD-IsmailovIlias-FIOT-2026](https://ilyasix.github.io/IO-31_appRECORD-IsmailovIlias-FIOT-2026/)
 
 ---
 
