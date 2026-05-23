@@ -218,7 +218,32 @@ test("POST /api/auth/login should validate email", async () => {
 
 ## 3. Скріншоти результату
 
-Скріншоти результату для лабораторної роботи №5 будуть додані після завершення тестування маршрутів безпеки, кешування та продуктивності в `TaskFlow`.
+### 3.1 Запуск автоматизованих тестів
+![Запуск тестів](/assets/labs/lab-5/screen-1.png)
+
+### 3.2 Підняті сервіси MySQL і Redis
+![Docker compose services](/assets/labs/lab-5/screen-2.png)
+
+### 3.3 Перевірка маршруту health
+![API health](/assets/labs/lab-5/screen-3.png)
+
+### 3.4 Перевірка маршруту status
+![API status](/assets/labs/lab-5/screen-4.png)
+
+### 3.5 Успішна авторизація
+![Login success](/assets/labs/lab-5/screen-5.png)
+
+### 3.6 Валідація помилки логіну
+![Login validation error](/assets/labs/lab-5/screen-6.png)
+
+### 3.7 Перший запит до списку задач
+![Tasks from database](/assets/labs/lab-5/screen-7.png)
+
+### 3.8 Повторний запит до списку задач
+![Tasks from cache](/assets/labs/lab-5/screen-8.png)
+
+### 3.9 Валідація при створенні задачі
+![Task validation error](/assets/labs/lab-5/screen-9.png)
 
 ---
 
